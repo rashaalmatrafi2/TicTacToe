@@ -38,7 +38,7 @@ This project serves as a practical application of the following Flutter concepts
 ## 📸 Project Preview
 
 | Feature | Preview |
-| :--- | :--- |
+| :--- |
 | **Dark Mode & Win State** |
 | **Light Mode** |  |
 | **Interactive Card Clicked** |
