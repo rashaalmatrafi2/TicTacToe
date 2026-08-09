@@ -40,8 +40,8 @@ This project serves as a practical application of the following Flutter concepts
 | Feature | Preview |
 | :--- | :--- |
 | **Dark Mode & Win State** | |
-| **Light Mode ** |  |
-| **Interactive Card Clicked ** |  |
+| **Light Mode** |  |
+| **Interactive Card Clicked** |  |
 
 ---
 
