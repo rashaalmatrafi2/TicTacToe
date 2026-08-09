@@ -39,9 +39,9 @@ This project serves as a practical application of the following Flutter concepts
 
 | Feature | Preview |
 | :--- | :--- |
-| **Dark Mode & Win State** | |
+| **Dark Mode & Win State** |
 | **Light Mode** |  |
-| **Interactive Card Clicked** |  |
+| **Interactive Card Clicked** |
 
 ---
 
